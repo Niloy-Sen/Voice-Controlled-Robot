@@ -13,3 +13,4 @@ Components Required: 1.	Arduino UNO with cable<br>
                      8.	9v battery (power bank) or Batteries<br>
                      9.	2 Battery clip connectors (1 connector must be suitable with dc jack on Arduino)<br>
                      10.	Speed sensor with encoder wheel.<br>
+     
